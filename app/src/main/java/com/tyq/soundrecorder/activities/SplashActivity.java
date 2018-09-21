@@ -87,8 +87,8 @@ public class SplashActivity extends TitleBarActivity {
                 //获得当前系统已经启动的时间
                 mHints[mHints.length - 1] =
                         SystemClock.uptimeMillis();
-//                半秒钟之内
-                if (SystemClock.uptimeMillis() - mHints[0] <= 500) {
+//                半秒钟之内  这里的单位是毫秒
+                if (SystemClock.uptimeMillis() - mHints[0] <= 300) {
                     //跳转到自定义的开发者页面
 //                      startActivityByClass(Develope.class);
 

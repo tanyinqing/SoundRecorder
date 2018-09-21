@@ -54,6 +54,7 @@ public class MainActivity extends TitleBarActivity {
     public boolean onKeyDown(int keyCode, KeyEvent event) {
         if (keyCode == KeyEvent.KEYCODE_BACK)
         {
+            startActivityByClass(SplashActivity.class);
             return false;
         }
         return super.onKeyDown(keyCode, event);

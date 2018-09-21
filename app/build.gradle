@@ -33,7 +33,7 @@ android {
                 if (variant.buildType.name.equals('release')) {
                     variant.mergedFlavor.versionName = getVersionName()
                     //fileName = "XXXX_${variant.mergedFlavor.versionName}_release.apk"
-                    fileName = "soundrecorder180921.apk"//   让图片放开 改ip 关闭log与内存卡的log
+                    fileName = "soundrecorder180922.apk"//   让图片放开 改ip 关闭log与内存卡的log
                     //  fileName = "app-release.apk"// 内测版 让图片放开 改ip 关闭log与内存卡的log
                 } else if (variant.buildType.name.equals('debug')) {
                     //variant.mergedFlavor.versionName = getVersionName()+"."+releaseTime()
