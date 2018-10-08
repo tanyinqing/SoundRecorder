@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="textColor1">#ffffff</color>
+    <color name="textColor3">#bdbdbd</color>
+    <color name="textColor4">#666666</color>
+    <color name="textColor_333333">#333333</color>
+    <color name="textColor6">#74E550</color>
+    <color name="textColor7">#F19553</color>
+    <color name="textColor8">#54F4A9</color>
+    <color name="textColor9">#4E8DEF</color>
+    <color name="textColor10">#F05554</color>
+    <color name="textColor11">#1B1B1B</color>
+    <color name="textColor_red">#ff0000</color>
+
+    <color name="button_bg1">#75E653</color>
+    <color name="button_bg2">#C7C7C7</color>
+    <color name="button_bg3">#0078FF</color>
+
+    <color name="bg_f6f6f6">#f6f6f6</color>
+    <color name="bg_ffffff">#ffffff</color>
+    <color name="background1">#333333</color>
+    <!--这个是状态栏的颜色-->
+    <color name="background2">#25527C</color>
+    <!--这个是标题栏的颜色-->
+    <color name="background3">#1F4469</color>
+    <color name="background4">#F1F1F1</color>
+    <color name="background5">#FFFFFF</color>
+    <!--这个是橘红色的颜色-->
+    <color name="background6">#FFB820</color>
+    <!--这个是浅蓝色的颜色-->
+    <color name="background7">#4FA0FC</color>
+    <!--这个是亮灰色分割线-->
+    <color name="Lightgrey">#eaeaea</color>
+    <!--这个是透明色-->
+    <color name="transparent">#00000000</color>
+    <!--空白窗口的背景色-->
+    <color name="activityColor">#FFFFFF</color>
+    <!--标题的背景色 和 状态栏的背景色-->
+    <color name="themeColor">#0078FF</color>
+    <!--标题的背景色 和 状态栏的背景色-->
+    <color name="themeColor_169bfb">#169bfb</color>
+    <!--app主色调-->
+    <color name="app_color">#0078FF</color>
+    <!--文字微软雅黑-->
+    <color name="TypefaceColor">#dcdcdc</color>
+
+    <!--首页按钮文字颜色-->
+    <color name="TypefaceColor1">#FEFEFE</color>
+    <!--文字微软雅黑2-->
+    <color name="TypefaceColor2">#555555</color>
+    <!--文字微软雅黑2-->
+    <color name="TypefaceColor_ffffff">#ffffff</color>
+    <!--文字微软雅黑2-->
+    <color name="TypefaceColor_7a7a7a">#7a7a7a</color>
+    <color name="TypefaceColor_033333">#033333</color>
+    <!--窗口标题的颜色-->
+    <color name="TypefaceColor4">#FFFFFF</color>
+    <color name="TypefaceColor5">#333333</color>
+    <color name="TypefaceColor6">#666666</color>
+    <color name="TypefaceColor7">#999999</color>
+    <!--文字颜色-->
+    <color name="TypefaceColor8">#0078FF</color>
+    <!--输入框提示文字的颜色-->
+    <color name="TypefaceColor9">#979696</color>
+    <!--白色-->
+    <color name="white">#FFFFFFFF</color>
+    <!--列表分割线的颜色 -->
+    <color name="lib_color_list_divider">#c4cbdd</color>
+    <!--红紫色 -->
+    <color name="red">#FF0000</color>
+<!--这个是扫描二维码用到的颜色-->
+    <color name="viewfinder_frame">#ffff0000</color>
+    <color name="viewfinder_laser">#00CC00</color>
+    <color name="viewfinder_mask">#66000000</color>
+    <color name="result_view">#b0000000</color>
+    <!-- 绿色 -->
+    <color name="darkgreen">#006400</color>
+    <color name="typeface">#7e7e7e</color>
+</resources>

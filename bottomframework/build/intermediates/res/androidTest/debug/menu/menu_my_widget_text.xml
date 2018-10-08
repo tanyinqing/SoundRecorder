@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="frameworkandroid.tan.com.bottomframework.activity.MyWidgetTextActivity">
+    <item android:id="@+id/action_settings" android:title="@string/action_settings"
+        android:orderInCategory="100" app:showAsAction="never" />
+</menu>
+<!-- From: file:/D:/studiospace/TanUseApp/SoundRecorder/bottomframework/src/main/res/menu/menu_my_widget_text.xml --><!-- From: file:/D:/studiospace/TanUseApp/SoundRecorder/bottomframework/build/intermediates/bundles/debug/res/menu/menu_my_widget_text.xml -->

@@ -33,7 +33,7 @@ android {
                 if (variant.buildType.name.equals('release')) {
                     variant.mergedFlavor.versionName = getVersionName()
                     //fileName = "XXXX_${variant.mergedFlavor.versionName}_release.apk"
-                    fileName = "soundrecorder180922.apk"//   让图片放开 改ip 关闭log与内存卡的log
+                    fileName = "soundrecorder181009.apk"//   让图片放开 改ip 关闭log与内存卡的log
                     //  fileName = "app-release.apk"// 内测版 让图片放开 改ip 关闭log与内存卡的log
                 } else if (variant.buildType.name.equals('debug')) {
                     //variant.mergedFlavor.versionName = getVersionName()+"."+releaseTime()
@@ -45,12 +45,12 @@ android {
         }
     }  //配置的部分到这里为止
 }
-
+//compile (name:'bottomframework-release',ext:'aar')
 dependencies {
-    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile fileTree(include: ['*.jar'], dir: 'libs')
     compile 'com.android.support:appcompat-v7:22.1.1'
-    compile (name:'bottomframework-release',ext:'aar')
     compile 'com.melnykov:floatingactionbutton:1.3.0'
     compile 'com.astuetz:pagerslidingtabstrip:1.0.1'
     compile 'com.android.support:cardview-v7:21.0.+'
+    compile project(':bottomframework')
 }

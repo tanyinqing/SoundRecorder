@@ -1,0 +1,20 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!--主要用于窗口标题的显示-->
+    <dimen name="textSize1">16sp</dimen>
+    <!--主要用于显示标题下内容的显示-->
+    <dimen name="textSize2">12sp</dimen>
+    <!--主要用于第三极标题下内容的显示-->
+    <dimen name="textSize3">11sp</dimen>
+    <!--主要用于首页窗口按钮的字体数据-->
+    <dimen name="textSize4">11sp</dimen>
+
+    <dimen name="padding1">10dp</dimen>
+    <dimen name="padding2">5dp</dimen>
+
+    <!--首页分类的高度-->
+    <dimen name="height1">0dp</dimen>
+</resources>

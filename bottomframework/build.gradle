@@ -1,0 +1,48 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 22
+    buildToolsVersion "22.0.1"
+
+    defaultConfig {
+        minSdkVersion 19
+        targetSdkVersion 22
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile 'com.android.support:appcompat-v7:22.1.1'
+    compile files('libs/andbase.jar')
+    compile files('libs/universal-image-loader-1.9.3.jar')
+    compile files('libs/xUtils-2.6.14.jar')
+    compile files('libs/zxing.jar')
+    compile files('libs/eventbus-3.1.1.jar')
+    compile files('libs/volley.jar')
+}
+
+
+//Copy类型  这个的子module中配置
+task makeJar(type: Copy) {
+    //删除存在的
+    delete 'build/libs/mysdk.jar'
+    //设置拷贝的文件
+    from('build/intermediates/bundles/release/')
+    //打进jar包后的文件目录
+    into('build/libs/')
+    //将classes.jar放入build/libs/目录下
+    //include ,exclude参数来设置过滤   （我们只关心classes.jar这个文件）
+    include('classes.jar')
+    rename ('classes.jar', 'tanAAr_20171207.jar')   //重命名
+}
+makeJar.dependsOn(build)
+//在终端执行生成JAR包
+// gradlew makeJar

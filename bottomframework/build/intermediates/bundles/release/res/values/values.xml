@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/studiospace/TanUseApp/SoundRecorder/bottomframework/src/main/res/values/arrays.xml -->
+    <eat-comment/>
+    <string-array name="books">
+		<item>疯狂Java讲义</item>
+		<item>疯狂Ajax讲义</item>
+		<item>疯狂Android讲义</item>
+	</string-array>
+    <string-array name="string_arr_base_distinction">
+		<item>胡泊资源与生态特征数据库</item>
+		<item>胡泊资源与生态特征数据库</item>
+		<item>胡泊资源与生态特征数据库</item>
+
+	</string-array>
+    <!-- From: file:/D:/studiospace/TanUseApp/SoundRecorder/bottomframework/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="Lightgrey">#eaeaea</color>
+    <color name="TypefaceColor">#dcdcdc</color>
+    <color name="TypefaceColor1">#FEFEFE</color>
+    <color name="TypefaceColor2">#555555</color>
+    <color name="TypefaceColor4">#FFFFFF</color>
+    <color name="TypefaceColor5">#333333</color>
+    <color name="TypefaceColor6">#666666</color>
+    <color name="TypefaceColor7">#999999</color>
+    <color name="TypefaceColor8">#0078FF</color>
+    <color name="TypefaceColor9">#979696</color>
+    <color name="TypefaceColor_033333">#033333</color>
+    <color name="TypefaceColor_7a7a7a">#7a7a7a</color>
+    <color name="TypefaceColor_ffffff">#ffffff</color>
+    <color name="activityColor">#FFFFFF</color>
+    <color name="app_color">#0078FF</color>
+    <color name="background1">#333333</color>
+    <color name="background2">#25527C</color>
+    <color name="background3">#1F4469</color>
+    <color name="background4">#F1F1F1</color>
+    <color name="background5">#FFFFFF</color>
+    <color name="background6">#FFB820</color>
+    <color name="background7">#4FA0FC</color>
+    <color name="bg_f6f6f6">#f6f6f6</color>
+    <color name="bg_ffffff">#ffffff</color>
+    <color name="button_bg1">#75E653</color>
+    <color name="button_bg2">#C7C7C7</color>
+    <color name="button_bg3">#0078FF</color>
+    <color name="darkgreen">#006400</color>
+    <color name="lib_color_list_divider">#c4cbdd</color>
+    <color name="red">#FF0000</color>
+    <color name="result_view">#b0000000</color>
+    <color name="textColor1">#ffffff</color>
+    <color name="textColor10">#F05554</color>
+    <color name="textColor11">#1B1B1B</color>
+    <color name="textColor3">#bdbdbd</color>
+    <color name="textColor4">#666666</color>
+    <color name="textColor6">#74E550</color>
+    <color name="textColor7">#F19553</color>
+    <color name="textColor8">#54F4A9</color>
+    <color name="textColor9">#4E8DEF</color>
+    <color name="textColor_333333">#333333</color>
+    <color name="textColor_red">#ff0000</color>
+    <color name="themeColor">#0078FF</color>
+    <color name="themeColor_169bfb">#169bfb</color>
+    <color name="transparent">#00000000</color>
+    <color name="typeface">#7e7e7e</color>
+    <color name="viewfinder_frame">#ffff0000</color>
+    <color name="viewfinder_laser">#00CC00</color>
+    <color name="viewfinder_mask">#66000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <declare-styleable name="ExpandableTextView"><attr format="integer" name="maxCollapsedLines"/><attr format="integer" name="animDuration"/><attr format="float" name="animAlphaStart"/><attr format="reference" name="expandIndicator"/><attr format="reference" name="collapseIndicator"/><attr format="enum" name="expandToggleType"><enum name="ImageButton" value="0"/><enum name="TextView" value="1"/></attr><attr format="reference" name="expandableTextId"/><attr format="reference" name="expandCollapseToggleId"/><attr format="boolean" name="expandToggleOnTextClick"/></declare-styleable>
+    <!-- From: file:/D:/studiospace/TanUseApp/SoundRecorder/bottomframework/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="height1">0dp</dimen>
+    <dimen name="padding1">10dp</dimen>
+    <dimen name="padding2">5dp</dimen>
+    <dimen name="textSize1">16sp</dimen>
+    <dimen name="textSize2">12sp</dimen>
+    <dimen name="textSize3">11sp</dimen>
+    <dimen name="textSize4">11sp</dimen>
+    <!-- From: file:/D:/studiospace/TanUseApp/SoundRecorder/bottomframework/src/main/res/values/ids.xml -->
+    <eat-comment/>
+    <item name="auto_focus" type="id"/>
+    <item name="decode" type="id"/>
+    <item name="decode_failed" type="id"/>
+    <item name="decode_succeeded" type="id"/>
+    <item name="encode_failed" type="id"/>
+    <item name="encode_succeeded" type="id"/>
+    <item name="expand_collapse" type="id"/>
+    <item name="expandable_text" type="id"/>
+    <item name="launch_product_query" type="id"/>
+    <item name="quit" type="id"/>
+    <item name="restart_preview" type="id"/>
+    <item name="return_scan_result" type="id"/>
+    <item name="search_book_contents_failed" type="id"/>
+    <item name="search_book_contents_succeeded" type="id"/>
+    <!-- From: file:/D:/studiospace/TanUseApp/SoundRecorder/bottomframework/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">仓库端</string>
+    <string name="cancel">取消</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="ok1">确定</string>
+    <string name="title_activity_ce_shi">CeShi</string>
+    <string name="title_activity_develop">DevelopActivity</string>
+    <string name="title_activity_login">门店端</string>
+    <string name="title_activity_login_acitvity">LoginAcitvity</string>
+    <string name="title_activity_mo_ban">MoBanActivity</string>
+    <string name="title_activity_modify_pass_word">ModifyPassWordActivity</string>
+    <string name="title_activity_my_widget_text">MyWidgetTextActivity</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="title_activity_user_center">UserCenterActivity</string>
+    <!-- From: file:/D:/studiospace/TanUseApp/SoundRecorder/bottomframework/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="Widget" parent="android:Widget"/>
+    <style name="mButton" parent="@style/Widget">
+        <item name="android:background">@drawable/shape_btn_bg1</item>
+        <item name="android:focusable">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceSmallInverse</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+        <item name="android:textColor">@color/TypefaceColor_ffffff</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:paddingTop">@dimen/padding1</item>
+        <item name="android:paddingBottom">@dimen/padding1</item>
+    </style>
+    <style name="mButton1" parent="@style/Widget">
+
+        <item name="android:focusable">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:background">@drawable/shape_btn_bg1</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceSmallInverse</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+        <item name="android:textColor">@color/TypefaceColor1</item>
+        <item name="android:textSize">@dimen/textSize4</item>
+        <!--
+        <item name="android:paddingTop">@dimen/padding2</item>
+        <item name="android:paddingBottom">@dimen/padding2</item>-->
+    </style>
+    <style name="mCheckBox" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="android:textSize">12sp</item>
+        <!--<item name="android:textColor">@color/gray</item>
+        <item name="android:paddingLeft">10dip</item>-->
+        <!--<item name="android:background">@drawable/check_box</item>
+        <item name="android:button">@null</item>-->
+        <item name="android:button">@drawable/check_box</item>
+    </style>
+    <style name="mCustomWindowTitleBackground" parent="@style/Widget">
+        <item name="android:background">@color/themeColor</item>
+    </style>
+    <style name="mEditText" parent="@style/Widget">
+        <item name="android:focusable">true</item>
+        <item name="android:focusableInTouchMode">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceMediumInverse</item>
+        <item name="android:textColor">@color/TypefaceColor2</item>
+        <item name="android:textColorHint">@color/TypefaceColor9</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingTop">@dimen/padding1</item>
+        <item name="android:paddingBottom">@dimen/padding1</item>
+        <item name="android:paddingLeft">3dp</item>
+    </style>
+    <style name="mEditText1" parent="@style/Widget">
+        <item name="android:focusable">true</item>
+        <item name="android:focusableInTouchMode">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceMediumInverse</item>
+        <item name="android:textColor">@color/TypefaceColor2</item>
+        <item name="android:textSize">@dimen/textSize2</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+    <style name="mImageButton1" parent="@style/Widget">
+        <item name="android:background">@null</item>
+        <item name="android:scaleType">center</item>
+        <!--<item name="android:focusable">true</item>
+        <item name="android:onClick">onclick</item>
+        <item name="android:clickable">true</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceSmallInverse</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+        <item name="android:textColor">@color/TypefaceColor</item>
+        <item name="android:textSize">16sp</item>-->
+        <!--<item name="android:paddingTop">@dimen/padding2</item>
+        <item name="android:paddingBottom">@dimen/padding2</item>-->
+    </style>
+    <style name="mListView" parent="@style/Widget">
+        <item name="android:divider">@drawable/list_divider</item>
+        <item name="android:dividerHeight">1dp</item>
+        <item name="android:listSelector">@drawable/listview_selector</item>
+    </style>
+    <style name="mTextView" parent="@style/Widget">
+        <item name="android:textColor">@color/textColor_333333</item>
+        <item name="android:textSize">@dimen/textSize2</item>
+        <item name="android:paddingTop">@dimen/padding1</item>
+        <item name="android:paddingBottom">@dimen/padding1</item>
+        <item name="android:paddingLeft">@dimen/padding2</item>
+    </style>
+    <style name="mTextView1" parent="@style/Widget">
+        <item name="android:textColor">@color/TypefaceColor6</item>
+        <item name="android:textSize">@dimen/textSize1</item>
+        <item name="android:gravity">center</item>
+       <!-- <item name="android:paddingTop">@dimen/padding1</item>
+        <item name="android:paddingBottom">@dimen/padding1</item>
+        <item name="android:paddingLeft">@dimen/padding1</item>-->
+    </style>
+    <style name="mTextView2" parent="@style/Widget">
+        <item name="android:textColor">@color/textColor_333333</item>
+        <item name="android:textSize">@dimen/textSize2</item>
+        <item name="android:gravity">center</item>
+       <!-- <item name="android:paddingTop">@dimen/padding2</item>
+        <item name="android:paddingBottom">@dimen/padding2</item>
+        <item name="android:paddingLeft">@dimen/padding2</item>-->
+    </style>
+    <style name="mTextView3" parent="@style/Widget">
+        <item name="android:textColor">@color/TypefaceColor4</item>
+        <item name="android:textSize">@dimen/textSize1</item>
+        <item name="android:gravity">center</item>
+       <!-- <item name="android:paddingTop">@dimen/padding2</item>
+        <item name="android:paddingBottom">@dimen/padding2</item>
+        <item name="android:paddingLeft">@dimen/padding2</item>-->
+    </style>
+    <style name="mTextView4" parent="@style/Widget">
+        <item name="android:textColor">@color/TypefaceColor6</item>
+        <item name="android:textSize">@dimen/textSize1</item>
+        <item name="android:gravity">center</item>
+       <!-- <item name="android:paddingTop">@dimen/padding2</item>
+        <item name="android:paddingBottom">@dimen/padding2</item>
+        <item name="android:paddingLeft">@dimen/padding2</item>-->
+    </style>
+    <!-- From: file:/D:/studiospace/TanUseApp/SoundRecorder/bottomframework/src/main/res/values/themes.xml -->
+    <eat-comment/>
+    <style name="myTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+		<item name="android:windowBackground">@color/background4</item>
+		<item name="android:windowTranslucentStatus">true</item>
+		<item name="android:color">@color/background4</item>
+		<item name="android:windowFullscreen">false</item>  //是否全屏
+		<item name="android:windowContentOverlay">@null</item>  <!--定义ActionBar窗体的背景-->
+		<item name="android:windowNoTitle">true</item>  //没有标题
+		<item name="android:windowTitleSize">55dip</item>
+		<item name="android:windowTitleBackgroundStyle">@style/mCustomWindowTitleBackground</item>
+
+		<item name="android:editTextStyle">@style/mEditText</item>
+		<item name="android:buttonStyle">@style/mButton</item>
+		<item name="android:textViewStyle">@style/mTextView</item>
+		<item name="android:listViewStyle">@style/mListView</item>
+		<item name="android:checkboxStyle">@style/mCheckBox</item>
+
+	</style>
+</resources>

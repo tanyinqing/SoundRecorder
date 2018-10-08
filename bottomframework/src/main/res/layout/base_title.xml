@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="69dp"
+   >
+
+    <LinearLayout
+        android:id="@+id/mLinearDivider2"
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:orientation="vertical"
+        android:background="@color/themeColor"></LinearLayout>
+    <RelativeLayout
+        android:id="@+id/mLinearTitleContent"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="@color/themeColor"
+        android:gravity="center_vertical">
+        <ImageButton
+            android:id="@+id/mButtonLeft"
+            android:layout_width="wrap_content"
+            android:layout_height="48dp"
+            android:background="@null"
+            android:visibility="gone"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="10dp"
+            android:paddingRight="20dp" />
+        <TextView
+            android:id="@+id/mImgeTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="48dp"
+            android:layout_centerInParent="true"
+            style="@style/mTextView3"/>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="48dp"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:layout_alignParentRight="true">
+
+            <TextView
+                android:id="@+id/mTextViewRight"
+                android:layout_width="wrap_content"
+                android:layout_height="48dp"
+                android:textSize="12sp"
+                android:layout_marginRight="10dp"
+                android:gravity="center"
+                android:visibility="gone"
+                android:textColor="@color/TypefaceColor"/>
+            <ImageButton
+                android:id="@+id/mButtonRight"
+                android:layout_width="wrap_content"
+                android:layout_height="48dp"
+                android:visibility="gone"
+                android:gravity="center"
+                android:layout_marginRight="10dp"
+                android:background="@null"
+                />
+        </LinearLayout>
+
+    </RelativeLayout>
+    <LinearLayout
+        android:id="@+id/mLinearDivider"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:orientation="vertical"
+        android:background="@color/themeColor"></LinearLayout>
+</LinearLayout>

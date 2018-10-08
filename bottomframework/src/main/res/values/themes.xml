@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+	<!--<style name="myTheme" parent="android:Theme"> 这个是最初引用的样式-->
+	<style name="myTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+		<item name="android:windowBackground">@color/background4</item>
+		<item name="android:windowTranslucentStatus">true</item>
+		<item name="android:color">@color/background4</item>
+		<item name="android:windowFullscreen">false</item>  //是否全屏
+		<item name="android:windowContentOverlay">@null</item>  <!--定义ActionBar窗体的背景-->
+		<item name="android:windowNoTitle">true</item>  //没有标题
+		<item name="android:windowTitleSize">55dip</item>
+		<item name="android:windowTitleBackgroundStyle">@style/mCustomWindowTitleBackground</item>
+
+		<item name="android:editTextStyle">@style/mEditText</item>
+		<item name="android:buttonStyle">@style/mButton</item>
+		<item name="android:textViewStyle">@style/mTextView</item>
+		<item name="android:listViewStyle">@style/mListView</item>
+		<item name="android:checkboxStyle">@style/mCheckBox</item>
+
+	</style>
+
+</resources>

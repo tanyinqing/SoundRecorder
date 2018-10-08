@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@color/themeColor_169bfb" android:state_selected="true"/>
+    <item android:drawable="@color/textColor_333333" android:state_selected="false"/>
+
+</selector><!-- From: file:/D:/studiospace/TanUseApp/SoundRecorder/bottomframework/src/main/res/drawable/selector_tv_textcolor.xml --><!-- From: file:/D:/studiospace/TanUseApp/SoundRecorder/bottomframework/build/intermediates/bundles/debug/res/drawable/selector_tv_textcolor.xml -->

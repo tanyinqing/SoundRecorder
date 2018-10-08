@@ -1,0 +1,31 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+    <frameworkandroid.tan.com.bottomframework.view.TopBarView
+        android:id="@+id/loginTopBar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+    <frameworkandroid.tan.com.bottomframework.customview.MyListView
+        android:id="@+id/list_data"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp">
+    </frameworkandroid.tan.com.bottomframework.customview.MyListView>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="500dp"
+        >
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="New Text"
+            android:id="@+id/tv_name" />
+    </LinearLayout>
+</LinearLayout>

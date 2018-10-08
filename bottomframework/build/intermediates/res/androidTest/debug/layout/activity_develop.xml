@@ -1,0 +1,91 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical"
+    tools:context="glidedisanfang.tyq.com.tanaar_171207.activity.DevelopActivity">
+    <frameworkandroid.tan.com.bottomframework.view.TopBarView
+        android:id="@+id/loginTopBar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <frameworkandroid.tan.com.bottomframework.customview.MyListView
+                android:id="@+id/list_data"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp">
+            </frameworkandroid.tan.com.bottomframework.customview.MyListView>
+
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical">
+
+                        <Button
+                            android:id="@+id/btn_weightText"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:onClick="onClick"
+                            android:layout_margin="5dp"
+                            android:text="进入页面编程" />
+                        <Button
+                            android:id="@+id/btn_word_delete"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:onClick="onClick"
+                            android:layout_margin="5dp"
+                            android:text="删除数据库和内存卡文件" />
+                        <Button
+                            android:id="@+id/kill_process"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:onClick="onClick"
+                            android:layout_margin="5dp"
+                            android:text="删除进程" />
+                        <Button
+                            android:id="@+id/delete_db"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:onClick="onClick"
+                            android:layout_margin="5dp"
+                            android:text="删除数据库" />
+                        <Button
+                            android:id="@+id/cache_data"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:onClick="onClick"
+                            android:layout_margin="5dp"
+                            android:text="显示全部缓存数据" />
+                        <Button
+                            android:id="@+id/list_datas"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:onClick="onClick"
+                            android:layout_margin="5dp"
+                            android:text="显示全部数据库数据" />
+                    </LinearLayout>
+                    <TextView
+                        android:id="@+id/tv_information"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceLarge" />
+                </LinearLayout>
+            </ScrollView>
+
+        </LinearLayout>
+
+</LinearLayout>
+<!-- From: file:/D:/studiospace/TanUseApp/SoundRecorder/bottomframework/src/main/res/layout/activity_develop.xml --><!-- From: file:/D:/studiospace/TanUseApp/SoundRecorder/bottomframework/build/intermediates/bundles/debug/res/layout/activity_develop.xml -->

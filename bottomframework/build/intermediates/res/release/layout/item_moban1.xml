@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:padding="12dp"
+    android:background="@color/white"
+    android:orientation="horizontal">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="1"
+        android:id="@+id/tv_serial_number"
+        android:layout_marginLeft="10dp"
+        android:padding="5dp"
+        android:layout_marginRight="5dp" />
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="胡泊资源与生态特征数据库"
+        android:id="@+id/tv_content"
+        android:layout_weight="1" />
+
+    <ImageView
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:src="@drawable/arrow_right" />
+</LinearLayout><!-- From: file:/D:/studiospace/TanUseApp/SoundRecorder/bottomframework/src/main/res/layout/item_moban1.xml -->

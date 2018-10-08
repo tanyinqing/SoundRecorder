@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<frameworkandroid.tan.com.bottomframework.customview.MenuBarView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_vertical"
+    android:orientation="horizontal" >
+    <!-- 图层应用了选择器 -->
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@drawable/menu_icon_selector"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/tv_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="分类"
+            android:textSize="18dp"
+            android:gravity="center">
+        </TextView>
+    </LinearLayout>
+
+
+    <!--     <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/menu_icon_selector"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/zixun_sport"
+                android:textSize="18dp" >
+            </TextView>
+        </LinearLayout> -->
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@drawable/menu_icon_selector"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/tv_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="全文"
+            android:textSize="18dp"
+            android:gravity="center">
+        </TextView>
+         <!-- <TextView
+           android:layout_width="match_parent"
+           android:layout_height="1dp"
+           android:paddingTop="2dp"
+           android:paddingBottom="5dp"
+           android:background="#cccccc"/>-->
+    </LinearLayout>
+
+   <!-- <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@drawable/menu_icon_selector"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="常见问题"
+            android:textSize="18dp" >
+        </TextView>
+    </LinearLayout>-->
+
+</frameworkandroid.tan.com.bottomframework.customview.MenuBarView><!-- From: file:/D:/studiospace/TanUseApp/SoundRecorder/bottomframework/src/main/res/layout/zixun_menubar.xml --><!-- From: file:/D:/studiospace/TanUseApp/SoundRecorder/bottomframework/build/intermediates/bundles/debug/res/layout/zixun_menubar.xml -->

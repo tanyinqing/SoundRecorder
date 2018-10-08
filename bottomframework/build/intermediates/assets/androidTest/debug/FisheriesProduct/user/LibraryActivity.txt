@@ -1,0 +1,53 @@
+{
+    "data": [
+        {
+            "position": 1,
+            "name": "艾比湖",
+            "area": "新疆"
+          },
+           {
+            "position": 2,
+            "name": "艾比湖",
+            "area": "新疆"
+          },
+           {
+            "position": 2,
+            "name": "艾比湖",
+            "area": "新疆"
+          },
+           {
+            "position": 2,
+            "name": "艾比湖",
+            "area": "新疆"
+          },
+           {
+            "position": 2,
+            "name": "艾比湖",
+            "area": "新疆"
+          },
+           {
+            "position": 2,
+            "name": "艾比湖",
+            "area": "新疆"
+          },
+           {
+            "position": 2,
+            "name": "艾比湖",
+            "area": "新疆"
+          },
+           {
+            "position": 2,
+            "name": "艾比湖",
+            "area": "新疆"
+          },
+          {
+             "position": 3,
+             "name": "艾比湖",
+             "area": "新疆"
+          }
+    ],
+    "limit": "1",
+    "msg": "查询成功",
+    "success": "true",
+    "userId": "42"
+}

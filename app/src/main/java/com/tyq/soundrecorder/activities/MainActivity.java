@@ -40,8 +40,8 @@ public class MainActivity extends TitleBarActivity {
     @Override
     protected void initDatas() {
         setTitle("主页面");
-        setButtonRight("",R.drawable.image_search);
-       setButtonLeft(R.drawable.icon_back);
+        setButtonRight("", R.drawable.image_search);
+        setButtonLeft(R.drawable.icon_back);
 
         pager = (ViewPager) findViewById(R.id.pager);
         pager.setAdapter(new MyAdapter(getSupportFragmentManager()));
@@ -52,8 +52,7 @@ public class MainActivity extends TitleBarActivity {
 
     @Override
     public boolean onKeyDown(int keyCode, KeyEvent event) {
-        if (keyCode == KeyEvent.KEYCODE_BACK)
-        {
+        if (keyCode == KeyEvent.KEYCODE_BACK) {
             startActivityByClass(SplashActivity.class);
             return false;
         }
@@ -61,21 +60,21 @@ public class MainActivity extends TitleBarActivity {
     }
 
     public class MyAdapter extends FragmentPagerAdapter {
-        private String[] titles = { getString(R.string.tab_title_record),
-                getString(R.string.tab_title_saved_recordings) };
+        private String[] titles = {getString(R.string.tab_title_record),
+                getString(R.string.tab_title_saved_recordings)};
 
         public MyAdapter(FragmentManager fm) {
             super(fm);
         }
 
-//        导航条的选中事件
+        //        导航条的选中事件
         @Override
         public Fragment getItem(int position) {
-            switch(position){
-                case 0:{
+            switch (position) {
+                case 0: {
                     return RecordFragment.newInstance(position);
                 }
-                case 1:{
+                case 1: {
                     return FileViewerFragment.newInstance(position);
                 }
             }
@@ -104,6 +103,6 @@ public class MainActivity extends TitleBarActivity {
 
     @Override
     protected void LeftButtonClicked() {
-startActivityByClass(SplashActivity.class);
+        startActivityByClass(SplashActivity.class);
     }
 }

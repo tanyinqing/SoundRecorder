@@ -30,6 +30,7 @@ import frameworkandroid.tan.com.bottomframework.entity_warehouse_download.Proch_
 import frameworkandroid.tan.com.bottomframework.listener.DataListener;
 import frameworkandroid.tan.com.bottomframework.model.BaseModel;
 import frameworkandroid.tan.com.bottomframework.util.DabaCopy;
+import frameworkandroid.tan.com.bottomframework.util.MyLog;
 import frameworkandroid.tan.com.bottomframework.util.PublicUtil;
 import frameworkandroid.tan.com.bottomframework.web.ShipmentWeb;
 
@@ -45,7 +46,7 @@ public class SplashActivity extends TitleBarActivity {
         startActivityByClass(MainActivity.class);
     }*/
 
-    void Comment_block(){
+    void Comment_block() {
 
     /*@ViewInject(R.id.re_adopt)
     private LinearLayout mPullRefreshView;
@@ -64,6 +65,7 @@ public class SplashActivity extends TitleBarActivity {
     /* @ViewInject(R.id.mPullRefreshView)
      private AbPullToRefreshView mPullRefreshView;*/
     }
+
     @Override
     protected void initDatas() {
         setTitle("demo");
@@ -95,12 +97,13 @@ public class SplashActivity extends TitleBarActivity {
 
 //                        startActivityByClass(MyWidgetTextActivity.class);
                     // 默认是false
+                    MyLog.ShowLog(String.valueOf(Constant.CeShiBan_true));
                     if (Constant.CeShiBan_true) {
                         /*Constant.CeShiBan_true =false;
                         ServiceApplication.getInstance().getPreferenceUtil().putSetting("CeShiBan_true", false);*/
 //                        Toast.makeText(SplashActivity.this, "正式版打开", Toast.LENGTH_SHORT).show();
                         finish();
-                    }else  {
+                    } else {
                        /* Constant.CeShiBan_true =true;
                         ServiceApplication.getInstance().getPreferenceUtil().putSetting("CeShiBan_true", true);*/
                         startActivityByClass(MainActivity.class);
@@ -113,14 +116,17 @@ public class SplashActivity extends TitleBarActivity {
 //        mMobanModel.requestDistrict(null);
 //        listDistrict.setAdapter(mMobanModel.getDistrictAdapter());
     }
+
     @Override
     protected void LeftButtonClicked() {
         finish();
     }
+
     @Override
     protected void RightButtonClicked() {
 
     }
+
     @Override
     protected void setListeners() {
         //调动数据 连接网络 初始化数据  sort_type是排列方式是升序还是降序  order_type是排序条件
@@ -159,8 +165,7 @@ public class SplashActivity extends TitleBarActivity {
 
     @Override
     public boolean onKeyDown(int keyCode, KeyEvent event) {
-        if (keyCode == KeyEvent.KEYCODE_BACK)
-        {
+        if (keyCode == KeyEvent.KEYCODE_BACK) {
             return false;
         }
         return super.onKeyDown(keyCode, event);
@@ -259,6 +264,7 @@ public class SplashActivity extends TitleBarActivity {
             }*/
 
     }
+
     //这个是适配器
     private static class MybanAdapter extends AdapterBase {
         private static Context mContext;

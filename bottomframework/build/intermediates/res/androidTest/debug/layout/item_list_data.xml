@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+</TextView><!-- From: file:/D:/studiospace/TanUseApp/SoundRecorder/bottomframework/src/main/res/layout/item_list_data.xml --><!-- From: file:/D:/studiospace/TanUseApp/SoundRecorder/bottomframework/build/intermediates/bundles/debug/res/layout/item_list_data.xml -->

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="1dp"
+    android:background="@color/Lightgrey"
+    android:orientation="vertical"
+    android:layout_marginLeft="7dp"
+    android:layout_marginRight="7dp">
+
+</LinearLayout>
+<!-- From: file:/D:/studiospace/TanUseApp/SoundRecorder/bottomframework/src/main/res/layout/divider_gray.xml -->

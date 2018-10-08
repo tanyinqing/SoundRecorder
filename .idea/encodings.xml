@@ -3,7 +3,6 @@
   <component name="Encoding" defaultCharsetForPropertiesFiles="GBK">
     <file url="file://$PROJECT_DIR$/README.md" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SUMMARY.md" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/app/libs/bottomframework-release.aar" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/src/main/java/com/tyq/soundrecorder/activities/MoBanActivity.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/src/main/java/com/tyq/soundrecorder/activities/SettingsActivity.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/src/main/java/com/tyq/soundrecorder/activities/SplashActivity.java" charset="UTF-8" />

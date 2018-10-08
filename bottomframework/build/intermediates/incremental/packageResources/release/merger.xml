@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res"><file name="bg_shape1" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable\bg_shape1.xml" qualifiers="" type="drawable"/><file name="button_green_nor" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable\button_green_nor.xml" qualifiers="" type="drawable"/><file name="button_green_pressed" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable\button_green_pressed.xml" qualifiers="" type="drawable"/><file name="button_green_selector" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable\button_green_selector.xml" qualifiers="" type="drawable"/><file name="check_box" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable\check_box.xml" qualifiers="" type="drawable"/><file name="editview_shape_selector" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable\editview_shape_selector.xml" qualifiers="" type="drawable"/><file name="ic_expand_less" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable\ic_expand_less.xml" qualifiers="" type="drawable"/><file name="ic_expand_more" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable\ic_expand_more.xml" qualifiers="" type="drawable"/><file name="listview_selector" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable\listview_selector.xml" qualifiers="" type="drawable"/><file name="menu_btn_default" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable\menu_btn_default.png" qualifiers="" type="drawable"/><file name="menu_btn_selected" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable\menu_btn_selected.png" qualifiers="" type="drawable"/><file name="menu_icon_selector" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable\menu_icon_selector.xml" qualifiers="" type="drawable"/><file name="progress_bg" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable\progress_bg.xml" qualifiers="" type="drawable"/><file name="progress_horizontal_img" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable\progress_horizontal_img.xml" qualifiers="" type="drawable"/><file name="selector_chackbox_agree" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable\selector_chackbox_agree.xml" qualifiers="" type="drawable"/><file name="selector_tv_textcolor" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable\selector_tv_textcolor.xml" qualifiers="" type="drawable"/><file name="shape_bg_gradient1" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable\shape_bg_gradient1.xml" qualifiers="" type="drawable"/><file name="shape_btn_bg1" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable\shape_btn_bg1.xml" qualifiers="" type="drawable"/><file name="shape_edit" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable\shape_edit.xml" qualifiers="" type="drawable"/><file name="shape_edit1" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable\shape_edit1.xml" qualifiers="" type="drawable"/><file name="shape_edit3" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable\shape_edit3.xml" qualifiers="" type="drawable"/><file name="singlecheckbox" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable\singlecheckbox.xml" qualifiers="" type="drawable"/><file name="arrow_right" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable-hdpi\arrow_right.png" qualifiers="hdpi" type="drawable"/><file name="btn_bg2" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable-hdpi\btn_bg2.png" qualifiers="hdpi" type="drawable"/><file name="btn_checkboxdefault" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable-hdpi\btn_checkboxdefault.png" qualifiers="hdpi" type="drawable"/><file name="btn_check_box_off" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable-hdpi\btn_check_box_off.png" qualifiers="hdpi" type="drawable"/><file name="btn_check_box_off1" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable-hdpi\btn_check_box_off1.png" qualifiers="hdpi" type="drawable"/><file name="btn_check_box_on" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable-hdpi\btn_check_box_on.png" qualifiers="hdpi" type="drawable"/><file name="btn_check_box_on1" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable-hdpi\btn_check_box_on1.png" qualifiers="hdpi" type="drawable"/><file name="btn_singleboxseleted" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable-hdpi\btn_singleboxseleted.png" qualifiers="hdpi" type="drawable"/><file name="btn_singleboxseleted_hl" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable-hdpi\btn_singleboxseleted_hl.png" qualifiers="hdpi" type="drawable"/><file name="default_ad" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable-hdpi\default_ad.png" qualifiers="hdpi" type="drawable"/><file name="dialog_bottom_bg" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable-hdpi\dialog_bottom_bg.png" qualifiers="hdpi" type="drawable"/><file name="dialog_top_bg" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable-hdpi\dialog_top_bg.png" qualifiers="hdpi" type="drawable"/><file name="edittext_img" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable-hdpi\edittext_img.png" qualifiers="hdpi" type="drawable"/><file name="flashlight" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable-hdpi\flashlight.png" qualifiers="hdpi" type="drawable"/><file name="greenbutton" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable-hdpi\greenbutton.png" qualifiers="hdpi" type="drawable"/><file name="icon_back" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable-hdpi\icon_back.png" qualifiers="hdpi" type="drawable"/><file name="ic_agree" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable-hdpi\ic_agree.png" qualifiers="hdpi" type="drawable"/><file name="ic_agree1" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable-hdpi\ic_agree1.png" qualifiers="hdpi" type="drawable"/><file name="ic_disagree" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable-hdpi\ic_disagree.png" qualifiers="hdpi" type="drawable"/><file name="ic_disagree1" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable-hdpi\ic_disagree1.png" qualifiers="hdpi" type="drawable"/><file name="ic_expand_less_black_12dp" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable-hdpi\ic_expand_less_black_12dp.png" qualifiers="hdpi" type="drawable"/><file name="ic_expand_more_black_12dp" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable-hdpi\ic_expand_more_black_12dp.png" qualifiers="hdpi" type="drawable"/><file name="ic_launcher" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi" type="drawable"/><file name="image_search" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable-hdpi\image_search.png" qualifiers="hdpi" type="drawable"/><file name="input_text_f" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable-hdpi\input_text_f.9.png" qualifiers="hdpi" type="drawable"/><file name="input_text_n" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable-hdpi\input_text_n.9.png" qualifiers="hdpi" type="drawable"/><file name="list_divider" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable-hdpi\list_divider.png" qualifiers="hdpi" type="drawable"/><file name="password" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable-hdpi\password.png" qualifiers="hdpi" type="drawable"/><file name="pinggu_result_progress_img" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable-hdpi\pinggu_result_progress_img.png" qualifiers="hdpi" type="drawable"/><file name="point1" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable-hdpi\point1.png" qualifiers="hdpi" type="drawable"/><file name="point2" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable-hdpi\point2.png" qualifiers="hdpi" type="drawable"/><file name="progressbggreen" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable-hdpi\progressbggreen.png" qualifiers="hdpi" type="drawable"/><file name="progress_background" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable-hdpi\progress_background.9.png" qualifiers="hdpi" type="drawable"/><file name="progress_normal" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable-hdpi\progress_normal.9.png" qualifiers="hdpi" type="drawable"/><file name="splash_screen" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable-hdpi\splash_screen.jpg" qualifiers="hdpi" type="drawable"/><file name="trans_bg" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable-hdpi\trans_bg.png" qualifiers="hdpi" type="drawable"/><file name="user" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable-hdpi\user.png" qualifiers="hdpi" type="drawable"/><file name="wheel_middle" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable-hdpi\wheel_middle.png" qualifiers="hdpi" type="drawable"/><file name="ic_launcher" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable-ldpi\ic_launcher.png" qualifiers="ldpi" type="drawable"/><file name="button_green_selector2" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable-mdpi\button_green_selector2.xml" qualifiers="mdpi" type="drawable"/><file name="edit_bg_shape" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable-mdpi\edit_bg_shape.xml" qualifiers="mdpi" type="drawable"/><file name="ic_launcher" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi" type="drawable"/><file name="title_img" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable-mdpi\title_img.png" qualifiers="mdpi" type="drawable"/><file name="default_goods" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable-xhdpi\default_goods.png" qualifiers="xhdpi" type="drawable"/><file name="ic_launcher" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi" type="drawable"/><file name="activity_develop" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\layout\activity_develop.xml" qualifiers="" type="layout"/><file name="activity_login" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\layout\activity_login.xml" qualifiers="" type="layout"/><file name="activity_moban" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\layout\activity_moban.xml" qualifiers="" type="layout"/><file name="activity_moban1" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\layout\activity_moban1.xml" qualifiers="" type="layout"/><file name="activity_moban2" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\layout\activity_moban2.xml" qualifiers="" type="layout"/><file name="activity_moban3" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\layout\activity_moban3.xml" qualifiers="" type="layout"/><file name="activity_modify_pass_word" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\layout\activity_modify_pass_word.xml" qualifiers="" type="layout"/><file name="activity_my_widget_text" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\layout\activity_my_widget_text.xml" qualifiers="" type="layout"/><file name="activity_splash_screen" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\layout\activity_splash_screen.xml" qualifiers="" type="layout"/><file name="ads_item" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\layout\ads_item.xml" qualifiers="" type="layout"/><file name="base_title" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\layout\base_title.xml" qualifiers="" type="layout"/><file name="camera" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\layout\camera.xml" qualifiers="" type="layout"/><file name="customtopbar" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\layout\customtopbar.xml" qualifiers="" type="layout"/><file name="dialog_show_image" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\layout\dialog_show_image.xml" qualifiers="" type="layout"/><file name="divider_gray" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\layout\divider_gray.xml" qualifiers="" type="layout"/><file name="item_list_data" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\layout\item_list_data.xml" qualifiers="" type="layout"/><file name="item_moban1" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\layout\item_moban1.xml" qualifiers="" type="layout"/><file name="item_rece_proch" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\layout\item_rece_proch.xml" qualifiers="" type="layout"/><file name="list_simple" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\layout\list_simple.xml" qualifiers="" type="layout"/><file name="list_single_choice" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\layout\list_single_choice.xml" qualifiers="" type="layout"/><file name="my_dialog" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\layout\my_dialog.xml" qualifiers="" type="layout"/><file name="zixun_menubar" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\layout\zixun_menubar.xml" qualifiers="" type="layout"/><file name="menu_my_widget_text" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\menu\menu_my_widget_text.xml" qualifiers="" type="menu"/><file name="beep" path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\raw\beep.ogg" qualifiers="" type="raw"/><file path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\values\arrays.xml" qualifiers=""><string-array name="books">
+		<item>疯狂Java讲义</item>
+		<item>疯狂Ajax讲义</item>
+		<item>疯狂Android讲义</item>
+	</string-array><string-array name="string_arr_base_distinction">
+		<item>胡泊资源与生态特征数据库</item>
+		<item>胡泊资源与生态特征数据库</item>
+		<item>胡泊资源与生态特征数据库</item>
+
+	</string-array></file><file path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\values\attrs.xml" qualifiers=""><declare-styleable name="ExpandableTextView">
+        <attr format="integer" name="maxCollapsedLines"/>
+        <attr format="integer" name="animDuration"/>
+        <attr format="float" name="animAlphaStart"/>
+        <attr format="reference" name="expandIndicator"/>
+        <attr format="reference" name="collapseIndicator"/>
+        <attr format="enum" name="expandToggleType">
+            <enum name="ImageButton" value="0"/>
+            <enum name="TextView" value="1"/>
+        </attr>
+        <attr format="reference" name="expandableTextId"/>
+        <attr format="reference" name="expandCollapseToggleId"/>
+        <attr format="boolean" name="expandToggleOnTextClick"/>
+    </declare-styleable></file><file path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\values\colors.xml" qualifiers=""><color name="textColor11">#1B1B1B</color><color name="lib_color_list_divider">#c4cbdd</color><color name="textColor10">#F05554</color><color name="background1">#333333</color><color name="background5">#FFFFFF</color><color name="background4">#F1F1F1</color><color name="background3">#1F4469</color><color name="background2">#25527C</color><color name="app_color">#0078FF</color><color name="background7">#4FA0FC</color><color name="background6">#FFB820</color><color name="darkgreen">#006400</color><color name="TypefaceColor">#dcdcdc</color><color name="transparent">#00000000</color><color name="textColor9">#4E8DEF</color><color name="textColor8">#54F4A9</color><color name="textColor7">#F19553</color><color name="textColor6">#74E550</color><color name="textColor4">#666666</color><color name="textColor3">#bdbdbd</color><color name="textColor1">#ffffff</color><color name="textColor_red">#ff0000</color><color name="bg_f6f6f6">#f6f6f6</color><color name="themeColor_169bfb">#169bfb</color><color name="TypefaceColor_7a7a7a">#7a7a7a</color><color name="viewfinder_laser">#00CC00</color><color name="TypefaceColor9">#979696</color><color name="TypefaceColor8">#0078FF</color><color name="TypefaceColor2">#555555</color><color name="TypefaceColor1">#FEFEFE</color><color name="textColor_333333">#333333</color><color name="TypefaceColor7">#999999</color><color name="TypefaceColor6">#666666</color><color name="TypefaceColor5">#333333</color><color name="TypefaceColor4">#FFFFFF</color><color name="white">#FFFFFFFF</color><color name="viewfinder_frame">#ffff0000</color><color name="button_bg1">#75E653</color><color name="activityColor">#FFFFFF</color><color name="button_bg3">#0078FF</color><color name="TypefaceColor_ffffff">#ffffff</color><color name="result_view">#b0000000</color><color name="button_bg2">#C7C7C7</color><color name="Lightgrey">#eaeaea</color><color name="viewfinder_mask">#66000000</color><color name="red">#FF0000</color><color name="TypefaceColor_033333">#033333</color><color name="typeface">#7e7e7e</color><color name="bg_ffffff">#ffffff</color><color name="themeColor">#0078FF</color></file><file path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\values\dimens.xml" qualifiers=""><dimen name="textSize3">11sp</dimen><dimen name="textSize2">12sp</dimen><dimen name="height1">0dp</dimen><dimen name="activity_vertical_margin">16dp</dimen><dimen name="textSize1">16sp</dimen><dimen name="activity_horizontal_margin">16dp</dimen><dimen name="padding1">10dp</dimen><dimen name="padding2">5dp</dimen><dimen name="textSize4">11sp</dimen></file><file path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\values\ids.xml" qualifiers=""><item name="return_scan_result" type="id"/><item name="launch_product_query" type="id"/><item name="expandable_text" type="id"/><item name="decode_succeeded" type="id"/><item name="decode" type="id"/><item name="expand_collapse" type="id"/><item name="decode_failed" type="id"/><item name="encode_succeeded" type="id"/><item name="encode_failed" type="id"/><item name="restart_preview" type="id"/><item name="search_book_contents_failed" type="id"/><item name="quit" type="id"/><item name="search_book_contents_succeeded" type="id"/><item name="auto_focus" type="id"/></file><file path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\values\strings.xml" qualifiers=""><string name="hello_world">Hello world!</string><string name="title_activity_user_center">UserCenterActivity</string><string name="title_activity_login">门店端</string><string name="action_settings">Settings</string><string name="app_name">仓库端</string><string name="cancel">取消</string><string name="title_activity_mo_ban">MoBanActivity</string><string name="title_activity_ce_shi">CeShi</string><string name="title_activity_splash_screen">SplashScreenActivity</string><string name="title_activity_develop">DevelopActivity</string><string name="ok1">确定</string><string name="title_activity_modify_pass_word">ModifyPassWordActivity</string><string name="title_activity_login_acitvity">LoginAcitvity</string><string name="title_activity_my_widget_text">MyWidgetTextActivity</string></file><file path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\values\styles.xml" qualifiers=""><style name="mEditText" parent="@style/Widget">
+        <item name="android:focusable">true</item>
+        <item name="android:focusableInTouchMode">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceMediumInverse</item>
+        <item name="android:textColor">@color/TypefaceColor2</item>
+        <item name="android:textColorHint">@color/TypefaceColor9</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingTop">@dimen/padding1</item>
+        <item name="android:paddingBottom">@dimen/padding1</item>
+        <item name="android:paddingLeft">3dp</item>
+    </style><style name="mButton1" parent="@style/Widget">
+
+        <item name="android:focusable">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:background">@drawable/shape_btn_bg1</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceSmallInverse</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+        <item name="android:textColor">@color/TypefaceColor1</item>
+        <item name="android:textSize">@dimen/textSize4</item>
+        <!--
+        <item name="android:paddingTop">@dimen/padding2</item>
+        <item name="android:paddingBottom">@dimen/padding2</item>-->
+    </style><style name="Widget" parent="android:Widget"/><style name="mListView" parent="@style/Widget">
+        <item name="android:divider">@drawable/list_divider</item>
+        <item name="android:dividerHeight">1dp</item>
+        <item name="android:listSelector">@drawable/listview_selector</item>
+    </style><style name="mTextView1" parent="@style/Widget">
+        <item name="android:textColor">@color/TypefaceColor6</item>
+        <item name="android:textSize">@dimen/textSize1</item>
+        <item name="android:gravity">center</item>
+       <!-- <item name="android:paddingTop">@dimen/padding1</item>
+        <item name="android:paddingBottom">@dimen/padding1</item>
+        <item name="android:paddingLeft">@dimen/padding1</item>-->
+    </style><style name="mCheckBox" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="android:textSize">12sp</item>
+        <!--<item name="android:textColor">@color/gray</item>
+        <item name="android:paddingLeft">10dip</item>-->
+        <!--<item name="android:background">@drawable/check_box</item>
+        <item name="android:button">@null</item>-->
+        <item name="android:button">@drawable/check_box</item>
+    </style><style name="mTextView2" parent="@style/Widget">
+        <item name="android:textColor">@color/textColor_333333</item>
+        <item name="android:textSize">@dimen/textSize2</item>
+        <item name="android:gravity">center</item>
+       <!-- <item name="android:paddingTop">@dimen/padding2</item>
+        <item name="android:paddingBottom">@dimen/padding2</item>
+        <item name="android:paddingLeft">@dimen/padding2</item>-->
+    </style><style name="mTextView3" parent="@style/Widget">
+        <item name="android:textColor">@color/TypefaceColor4</item>
+        <item name="android:textSize">@dimen/textSize1</item>
+        <item name="android:gravity">center</item>
+       <!-- <item name="android:paddingTop">@dimen/padding2</item>
+        <item name="android:paddingBottom">@dimen/padding2</item>
+        <item name="android:paddingLeft">@dimen/padding2</item>-->
+    </style><style name="mTextView4" parent="@style/Widget">
+        <item name="android:textColor">@color/TypefaceColor6</item>
+        <item name="android:textSize">@dimen/textSize1</item>
+        <item name="android:gravity">center</item>
+       <!-- <item name="android:paddingTop">@dimen/padding2</item>
+        <item name="android:paddingBottom">@dimen/padding2</item>
+        <item name="android:paddingLeft">@dimen/padding2</item>-->
+    </style><style name="mCustomWindowTitleBackground" parent="@style/Widget">
+        <item name="android:background">@color/themeColor</item>
+    </style><style name="mImageButton1" parent="@style/Widget">
+        <item name="android:background">@null</item>
+        <item name="android:scaleType">center</item>
+        <!--<item name="android:focusable">true</item>
+        <item name="android:onClick">onclick</item>
+        <item name="android:clickable">true</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceSmallInverse</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+        <item name="android:textColor">@color/TypefaceColor</item>
+        <item name="android:textSize">16sp</item>-->
+        <!--<item name="android:paddingTop">@dimen/padding2</item>
+        <item name="android:paddingBottom">@dimen/padding2</item>-->
+    </style><style name="mTextView" parent="@style/Widget">
+        <item name="android:textColor">@color/textColor_333333</item>
+        <item name="android:textSize">@dimen/textSize2</item>
+        <item name="android:paddingTop">@dimen/padding1</item>
+        <item name="android:paddingBottom">@dimen/padding1</item>
+        <item name="android:paddingLeft">@dimen/padding2</item>
+    </style><style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style><style name="mButton" parent="@style/Widget">
+        <item name="android:background">@drawable/shape_btn_bg1</item>
+        <item name="android:focusable">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceSmallInverse</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+        <item name="android:textColor">@color/TypefaceColor_ffffff</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:paddingTop">@dimen/padding1</item>
+        <item name="android:paddingBottom">@dimen/padding1</item>
+    </style><style name="mEditText1" parent="@style/Widget">
+        <item name="android:focusable">true</item>
+        <item name="android:focusableInTouchMode">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceMediumInverse</item>
+        <item name="android:textColor">@color/TypefaceColor2</item>
+        <item name="android:textSize">@dimen/textSize2</item>
+        <item name="android:gravity">center_vertical</item>
+    </style></file><file path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\values\themes.xml" qualifiers=""><style name="myTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+		<item name="android:windowBackground">@color/background4</item>
+		<item name="android:windowTranslucentStatus">true</item>
+		<item name="android:color">@color/background4</item>
+		<item name="android:windowFullscreen">false</item>  //是否全屏
+		<item name="android:windowContentOverlay">@null</item>  <!--定义ActionBar窗体的背景-->
+		<item name="android:windowNoTitle">true</item>  //没有标题
+		<item name="android:windowTitleSize">55dip</item>
+		<item name="android:windowTitleBackgroundStyle">@style/mCustomWindowTitleBackground</item>
+
+		<item name="android:editTextStyle">@style/mEditText</item>
+		<item name="android:buttonStyle">@style/mButton</item>
+		<item name="android:textViewStyle">@style/mTextView</item>
+		<item name="android:listViewStyle">@style/mListView</item>
+		<item name="android:checkboxStyle">@style/mCheckBox</item>
+
+	</style></file><file path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\values-v14\styles.xml" qualifiers="v14"><style name="BufferDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">@color/transparent</item>
+        <item name="android:windowBackground">@color/transparent</item>
+    </style><style name="AppBaseTheme" parent="android:Theme.Light">
+        <!-- API 14 theme customizations can go here. -->
+    </style><style name="MyDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">@color/white</item>
+        <item name="android:windowBackground">@color/transparent</item>
+        <item name="android:fadingEdge">none</item>
+    </style></file><file path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\main\res\values-w820dp\dimens.xml" qualifiers="w820dp"><dimen name="activity_horizontal_margin">64dp</dimen></file></source><source path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\build\generated\res\rs\release"/><source path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\build\generated\res\generated\release"/></dataSet><dataSet config="release"><source path="D:\studiospace\TanUseApp\SoundRecorder\bottomframework\src\release\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="ExpandableTextView"><attr format="integer" name="maxCollapsedLines"/><attr format="integer" name="animDuration"/><attr format="float" name="animAlphaStart"/><attr format="reference" name="expandIndicator"/><attr format="reference" name="collapseIndicator"/><attr format="enum" name="expandToggleType"><enum name="ImageButton" value="0"/><enum name="TextView" value="1"/></attr><attr format="reference" name="expandableTextId"/><attr format="reference" name="expandCollapseToggleId"/><attr format="boolean" name="expandToggleOnTextClick"/></declare-styleable></configuration></mergedItems></merger>

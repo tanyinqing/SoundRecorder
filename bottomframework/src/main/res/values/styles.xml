@@ -1,0 +1,152 @@
+<resources>
+
+    <!--这个是后来自己添加的 主要用作一般内容  浅灰字-->
+    <style name="mTextView4" parent="@style/Widget">
+        <item name="android:textColor">@color/TypefaceColor6</item>
+        <item name="android:textSize">@dimen/textSize1</item>
+        <item name="android:gravity">center</item>
+       <!-- <item name="android:paddingTop">@dimen/padding2</item>
+        <item name="android:paddingBottom">@dimen/padding2</item>
+        <item name="android:paddingLeft">@dimen/padding2</item>-->
+    </style>
+
+    <!--这个是后来自己添加的 主要用作窗口的标题  白字-->
+    <style name="mTextView3" parent="@style/Widget">
+        <item name="android:textColor">@color/TypefaceColor4</item>
+        <item name="android:textSize">@dimen/textSize1</item>
+        <item name="android:gravity">center</item>
+       <!-- <item name="android:paddingTop">@dimen/padding2</item>
+        <item name="android:paddingBottom">@dimen/padding2</item>
+        <item name="android:paddingLeft">@dimen/padding2</item>-->
+    </style>
+    <!--这个是后来自己添加的 主要用作一般标题 黑字-->
+    <style name="mTextView2" parent="@style/Widget">
+        <item name="android:textColor">@color/textColor_333333</item>
+        <item name="android:textSize">@dimen/textSize2</item>
+        <item name="android:gravity">center</item>
+       <!-- <item name="android:paddingTop">@dimen/padding2</item>
+        <item name="android:paddingBottom">@dimen/padding2</item>
+        <item name="android:paddingLeft">@dimen/padding2</item>-->
+    </style>
+
+    <!--这个是后来自己添加的  主要用作一般内容  黑字-->
+    <style name="mTextView1" parent="@style/Widget">
+        <item name="android:textColor">@color/TypefaceColor6</item>
+        <item name="android:textSize">@dimen/textSize1</item>
+        <item name="android:gravity">center</item>
+       <!-- <item name="android:paddingTop">@dimen/padding1</item>
+        <item name="android:paddingBottom">@dimen/padding1</item>
+        <item name="android:paddingLeft">@dimen/padding1</item>-->
+    </style>
+
+    <!--这个首页类型按钮的样式 -->
+    <style name="mButton1" parent="@style/Widget">
+
+        <item name="android:focusable">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:background">@drawable/shape_btn_bg1</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceSmallInverse</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+        <item name="android:textColor">@color/TypefaceColor1</item>
+        <item name="android:textSize">@dimen/textSize4</item>
+        <!--
+        <item name="android:paddingTop">@dimen/padding2</item>
+        <item name="android:paddingBottom">@dimen/padding2</item>-->
+    </style>
+
+    <!--这个首页底部导航栏按钮的样式 -->
+    <style name="mImageButton1" parent="@style/Widget">
+        <item name="android:background">@null</item>
+        <item name="android:scaleType">center</item>
+        <!--<item name="android:focusable">true</item>
+        <item name="android:onClick">onclick</item>
+        <item name="android:clickable">true</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceSmallInverse</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+        <item name="android:textColor">@color/TypefaceColor</item>
+        <item name="android:textSize">16sp</item>-->
+        <!--<item name="android:paddingTop">@dimen/padding2</item>
+        <item name="android:paddingBottom">@dimen/padding2</item>-->
+    </style>
+
+    <!--这个对输入框的修改 <item name="android:background">@drawable/editview_shape_selector</item>-->
+    <style name="mEditText1" parent="@style/Widget">
+        <item name="android:focusable">true</item>
+        <item name="android:focusableInTouchMode">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceMediumInverse</item>
+        <item name="android:textColor">@color/TypefaceColor2</item>
+        <item name="android:textSize">@dimen/textSize2</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+
+    <!--以下样式为主题样式 以上样式是个体样式-->
+    <!--以下========================================================================以上-->
+
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Widget" parent="android:Widget"></style>
+
+    <style name="mCustomWindowTitleBackground" parent="@style/Widget">
+        <item name="android:background">@color/themeColor</item>
+    </style>
+
+    <!--这个对输入框的修改 <item name="android:background">@drawable/editview_shape_selector</item>-->
+    <style name="mEditText" parent="@style/Widget">
+        <item name="android:focusable">true</item>
+        <item name="android:focusableInTouchMode">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceMediumInverse</item>
+        <item name="android:textColor">@color/TypefaceColor2</item>
+        <item name="android:textColorHint">@color/TypefaceColor9</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingTop">@dimen/padding1</item>
+        <item name="android:paddingBottom">@dimen/padding1</item>
+        <item name="android:paddingLeft">3dp</item>
+    </style>
+
+    <!--这个对白按钮的修改 -->
+   <!-- <item name="android:background">@drawable/button_green_selector</item>-->
+    <style name="mButton" parent="@style/Widget">
+        <item name="android:background">@drawable/shape_btn_bg1</item>
+        <item name="android:focusable">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceSmallInverse</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+        <item name="android:textColor">@color/TypefaceColor_ffffff</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:paddingTop">@dimen/padding1</item>
+        <item name="android:paddingBottom">@dimen/padding1</item>
+    </style>
+
+    <!--这个是后来自己添加的 对文本的修改-->
+    <style name="mTextView" parent="@style/Widget">
+        <item name="android:textColor">@color/textColor_333333</item>
+        <item name="android:textSize">@dimen/textSize2</item>
+        <item name="android:paddingTop">@dimen/padding1</item>
+        <item name="android:paddingBottom">@dimen/padding1</item>
+        <item name="android:paddingLeft">@dimen/padding2</item>
+    </style>
+
+    <style name="mListView" parent="@style/Widget">
+        <item name="android:divider">@drawable/list_divider</item>
+        <item name="android:dividerHeight">1dp</item>
+        <item name="android:listSelector">@drawable/listview_selector</item>
+    </style>
+
+    <style name="mCheckBox" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="android:textSize">12sp</item>
+        <!--<item name="android:textColor">@color/gray</item>
+        <item name="android:paddingLeft">10dip</item>-->
+        <!--<item name="android:background">@drawable/check_box</item>
+        <item name="android:button">@null</item>-->
+        <item name="android:button">@drawable/check_box</item>
+    </style>
+
+
+</resources>

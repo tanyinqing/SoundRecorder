@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" >
+
+   <solid android:color="@color/button_bg3"/>
+
+    <corners android:radius="2dp" />
+
+</shape><!-- From: file:/D:/studiospace/TanUseApp/SoundRecorder/bottomframework/src/main/res/drawable/shape_btn_bg1.xml --><!-- From: file:/D:/studiospace/TanUseApp/SoundRecorder/bottomframework/build/intermediates/bundles/debug/res/drawable/shape_btn_bg1.xml -->

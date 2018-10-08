@@ -1,0 +1,470 @@
+{
+    "data": [
+        {
+            "content": "渔业水域资源与生物基础特征数据库",
+            "id": "1",
+            "isFold": "isFold",
+            "list": [
+                {
+                    "content": "胡泊资源与生态特征数据库1",
+                    "id": "1",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库2",
+                    "id": "2",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库4",
+                    "id": "3",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库4",
+                    "id": "4",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库4",
+                    "id": "5",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库4",
+                    "id": "6",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库3",
+                    "id": "7",
+                    "isSelected": "isFold"
+                }
+            ]
+        },
+        {
+            "content": "渔业水域资源与生物基础特征数据库",
+            "id": "2",
+            "isFold": "isFold",
+            "list": [
+                {
+                    "content": "胡泊资源与生态特征数据库1",
+                    "id": "1",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库2",
+                    "id": "2",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库4",
+                    "id": "3",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库4",
+                    "id": "4",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库4",
+                    "id": "5",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库4",
+                    "id": "6",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库3",
+                    "id": "7",
+                    "isSelected": "isFold"
+                }
+            ]
+        },
+        {
+            "content": "渔业水域资源与生物基础特征数据库",
+            "id": "3",
+            "isFold": "isFold",
+            "list": [
+                {
+                    "content": "胡泊资源与生态特征数据库1",
+                    "id": "1",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库2",
+                    "id": "2",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库4",
+                    "id": "3",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库4",
+                    "id": "4",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库4",
+                    "id": "5",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库4",
+                    "id": "6",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库3",
+                    "id": "7",
+                    "isSelected": "isFold"
+                }
+            ]
+        },
+        {
+            "content": "渔业水域资源与生物基础特征数据库",
+            "id": "4",
+            "isFold": "isFold",
+            "list": [
+                {
+                    "content": "胡泊资源与生态特征数据库1",
+                    "id": "1",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库2",
+                    "id": "2",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库4",
+                    "id": "3",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库4",
+                    "id": "4",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库4",
+                    "id": "5",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库4",
+                    "id": "6",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库3",
+                    "id": "7",
+                    "isSelected": "isFold"
+                }
+            ]
+        },
+        {
+            "content": "渔业水域资源与生物基础特征数据库",
+            "id": "5",
+            "isFold": "isFold",
+            "list": [
+                {
+                    "content": "胡泊资源与生态特征数据库1",
+                    "id": "1",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库2",
+                    "id": "2",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库4",
+                    "id": "3",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库4",
+                    "id": "4",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库4",
+                    "id": "5",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库4",
+                    "id": "6",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库3",
+                    "id": "7",
+                    "isSelected": "isFold"
+                }
+            ]
+        },
+        {
+            "content": "渔业水域资源与生物基础特征数据库",
+            "id": "6",
+            "isFold": "isFold",
+            "list": [
+                {
+                    "content": "胡泊资源与生态特征数据库1",
+                    "id": "1",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库2",
+                    "id": "2",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库4",
+                    "id": "3",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库4",
+                    "id": "4",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库4",
+                    "id": "5",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库4",
+                    "id": "6",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库3",
+                    "id": "7",
+                    "isSelected": "isFold"
+                }
+            ]
+        },
+        {
+            "content": "渔业水域资源与生物基础特征数据库",
+            "id": "7",
+            "isFold": "isFold",
+            "list": [
+                {
+                    "content": "胡泊资源与生态特征数据库1",
+                    "id": "1",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库2",
+                    "id": "2",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库4",
+                    "id": "3",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库4",
+                    "id": "4",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库4",
+                    "id": "5",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库4",
+                    "id": "6",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库3",
+                    "id": "7",
+                    "isSelected": "isFold"
+                }
+            ]
+        },
+        {
+            "content": "渔业水域资源与生物基础特征数据库",
+            "id": "8",
+            "isFold": "isFold",
+            "list": [
+                {
+                    "content": "胡泊资源与生态特征数据库1",
+                    "id": "1",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库2",
+                    "id": "2",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库4",
+                    "id": "3",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库4",
+                    "id": "4",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库4",
+                    "id": "5",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库4",
+                    "id": "6",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库3",
+                    "id": "7",
+                    "isSelected": "isFold"
+                }
+            ]
+        },
+        {
+            "content": "渔业水域资源与生物基础特征数据库",
+            "id": "9",
+            "isFold": "isFold",
+            "list": [
+                {
+                    "content": "胡泊资源与生态特征数据库1",
+                    "id": "1",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库2",
+                    "id": "2",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库4",
+                    "id": "3",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库4",
+                    "id": "4",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库4",
+                    "id": "5",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库4",
+                    "id": "6",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库3",
+                    "id": "7",
+                    "isSelected": "isFold"
+                }
+            ]
+        },
+        {
+            "content": "渔业水域资源与生物基础特征数据库",
+            "id": "10",
+            "isFold": "isFold",
+            "list": [
+                {
+                    "content": "胡泊资源与生态特征数据库1",
+                    "id": "1",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库2",
+                    "id": "2",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库4",
+                    "id": "3",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库4",
+                    "id": "4",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库4",
+                    "id": "5",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库4",
+                    "id": "6",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库3",
+                    "id": "7",
+                    "isSelected": "isFold"
+                }
+            ]
+        },
+        {
+            "content": "渔业水域资源与生物基础特征数据库",
+            "id": "11",
+            "isFold": "isFold",
+            "list": [
+                {
+                    "content": "胡泊资源与生态特征数据库1",
+                    "id": "1",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库2",
+                    "id": "2",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库4",
+                    "id": "3",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库4",
+                    "id": "4",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库4",
+                    "id": "5",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库4",
+                    "id": "6",
+                    "isSelected": "isFold"
+                },
+                {
+                    "content": "胡泊资源与生态特征数据库3",
+                    "id": "7",
+                    "isSelected": "isFold"
+                }
+            ]
+        }
+    ],
+    "limit": "1",
+    "msg": "查询成功",
+    "success": "true",
+    "userId": "42"
+}
